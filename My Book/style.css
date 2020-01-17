@@ -1,0 +1,43 @@
+.header{
+	border: solid black;
+	font-family: helvetica;
+	font-size: 30px;
+	color: black;
+}
+.mainbody{
+	border: solid black;
+}
+.paragraph{
+	font-family: helvetica;
+	font-size: 25px;
+	color: black;
+}
+.mainbodyheader{
+	font-family: helvetica;
+	font-size: 27px;
+}
+.tablecontents{
+	border: solid black;
+}
+.tablecontentsheader{
+	font-size: 27px;
+	font-family: helvetica;
+}
+.chapterheader{
+	font-family: helvetica;
+	border: solid black;
+}
+.chapterbody{
+	border: solid black;
+	font-size: 20px;
+	font-family: helvetica;
+}
+table,th,td{
+	border: 1px solid black;
+	font-size: 25px;
+}
+body{
+	background-image: url(images.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
